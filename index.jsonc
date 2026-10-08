@@ -1,0 +1,19 @@
+// @license
+// Copyright (c) Audanika. All Rights Reserved.
+//
+// Use of this source code is governed by terms that can be
+// found in the LICENSE file in the root of this package.
+
+{
+  "name": "aud_audio_osc",
+  "summary": "OSC adapter of the Audanika Audio Engine: address router, replies and notifications, UDP and WebSocket server.",
+  "domain": [
+    "OSC adapter of the Audanika Audio Engine"
+  ],
+  "interfaces": {
+    "uses": {
+      "aud_audio_graph": "package dependency"
+    },
+    "usedBy": {}
+  }
+}
