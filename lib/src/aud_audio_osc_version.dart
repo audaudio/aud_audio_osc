@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_audio_osc` package.
-const String audAudioOscVersion = '0.0.2';
+const String audAudioOscVersion = '0.0.3';
